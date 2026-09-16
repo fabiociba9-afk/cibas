@@ -1,0 +1,7 @@
+{
+  "name": "ExecutivoGo",
+  "description": "Aplicativo completo de gestão de transporte executivo com perfis para Super Administrador, Administrador de Empresa, Motorista e Solicitante, com viagens, financeiro, recibos e rastreamento em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
