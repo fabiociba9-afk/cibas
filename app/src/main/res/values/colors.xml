@@ -6,5 +6,16 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
-    <color name="white">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ExecutivoGo Palette -->
+    <color name="navy_primary">#FF0B1E36</color>
+    <color name="navy_secondary">#FF132F54</color>
+    <color name="navy_dark">#FF06101E</color>
+    <color name="emerald_accent">#FF059669</color>
+    <color name="emerald_light">#FF10B981</color>
+    <color name="emerald_container">#FFD1FAE5</color>
+    <color name="slate_light">#FFF8FAFC</color>
+    <color name="slate_surface">#FFF1F5F9</color>
+    <color name="slate_border">#FFE2E8F0</color>
 </resources>

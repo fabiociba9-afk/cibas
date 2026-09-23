@@ -1,0 +1,39 @@
+{
+  "id": "/",
+  "name": "ExecutivoGo",
+  "short_name": "ExecutivoGo",
+  "description": "Sistema interno de gestão de transporte executivo corporativo para Super Administrador e Motoristas, com controle de frotas, passageiros, empresas, financeiro e Android Auto.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#06101E",
+  "theme_color": "#06101E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/logo_transparent.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/logo_transparent.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+

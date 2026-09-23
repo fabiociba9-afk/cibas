@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:width="66dp"
-        android:height="66dp"
-        android:drawable="@drawable/executivo_go_icon_1789573853723"
+        android:width="72dp"
+        android:height="72dp"
+        android:drawable="@drawable/img_executivo_icon_transparent"
         android:gravity="center" />
 </layer-list>
 

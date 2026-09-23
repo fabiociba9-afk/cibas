@@ -1,6 +1,6 @@
 {
   "name": "ExecutivoGo",
-  "description": "Aplicativo completo de gestão de transporte executivo com perfis para Super Administrador, Administrador de Empresa, Motorista e Solicitante, com viagens, financeiro, recibos e rastreamento em tempo real.",
+  "description": "Sistema interno de gestão de transporte executivo corporativo para Super Administrador e Motoristas, com controle de frotas, passageiros, empresas, financeiro e Android Auto.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
